@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anadi-singh-272843266/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rajputanadi)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;Welcome+to+my+GitHub!;I+am+a+Software+Engineer+in+making.;I+love+React+%26+JavaScript!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hello+World!+👨‍💻;I'm+a+Software+Engineer+in+the+making+🖥️;+Coding+my+way+through+life+💻;I+love+React,+JavaScript,+and+building+cool+stuff!+🤓;Let's+talk+tech+&+AI+!+💡)](https://git.io/typing-svg)
 
 
 
