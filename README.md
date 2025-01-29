@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;Welcome+to+my+GitHub!;I+am+a+Software+Engineer+in+making.;I+love+React+%26+JavaScript!)](https://git.io/typing-svg)
 
-![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+
 
 
 
