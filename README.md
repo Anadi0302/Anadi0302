@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Anadi!
-<img src="https://svgshare.com/i/Zh4.svg" alt="Hello world animation" width="400" />
+[![GitHub](https://img.shields.io/badge/Follow-Anadi0302-blue?logo=github)](https://github.com/Anadi0302)
+
 
 🌟 Aspiring Software Engineer | Passionate about Web Development and AI 🌟  
 🚀 Currently learning **React** and **Machine Learning**.  
