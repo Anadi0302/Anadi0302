@@ -40,8 +40,11 @@ A dynamic To-Do List app built with **React** to manage tasks.
 An accessibility tool to read newspapers for the blind, using **YOLOv8** and **Pytesseract** for text recognition.  
 - Converts scanned newspaper text to speech using **GTTS**.
 ### 3. **[Sales Analysis](https://github.com/Anadi0302/Sales-Analysis)**
-An accessibility tool to have a detailed analysis of the Sales for the past 4 years.  
-- Converts scanned newspaper text to speech using **GTTS**.
+An accessibility tool to have a detailed analysis of the Sales for the past 4 years.
+### 4. **[Image gallery](https://github.com/Anadi0302/image-gallery)**
+It is a gallery which shows images of different dogs or any api that you have used in the code.
+-the major skills used this was React Native ,Javascript,html and css.
+
 ---
 
 ## 📊 GitHub Stats & Activity
