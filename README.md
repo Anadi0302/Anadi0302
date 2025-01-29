@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Anadi!
 [![GitHub](https://img.shields.io/badge/Follow-Anadi0302-blue?logo=github)](https://github.com/Anadi0302)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
+
 
 
 🌟 Aspiring Software Engineer | Passionate about Web Development and AI 🌟  
