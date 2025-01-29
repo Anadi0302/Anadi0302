@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hello, I'm Anadi!
+<img src="https://svgshare.com/i/Zh4.svg" alt="Hello world animation" width="400" />
 
-<!--
-**Anadi0302/Anadi0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Aspiring Software Engineer | Passionate about Web Development and AI 🌟  
+🚀 Currently learning **React** and **Machine Learning**.  
+🔍 Looking for exciting **internships** and **open-source projects** to contribute to!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+
+- **Languages**: JavaScript, Python, C++
+- **Frameworks/Libraries**: React, Node.js, Express, TensorFlow
+- **Tools**: Git, VS Code, Postman, Docker
+
+---
+
+## 💻 Top Projects
+
+### 1. **[To-Do List App](https://github.com/Anadi0302/To-do-list)**
+A dynamic To-Do List app built with **React** to manage tasks.  
+- Add tasks, mark them as complete, and delete them.
+- Uses **local storage** to persist tasks.
+
+### 2. **[Newspaper Reader for the Blind](https://github.com/Anadi0302/Newspaper-Reader)**
+An accessibility tool to read newspapers for the blind, using **YOLOv8** and **Pytesseract** for text recognition.  
+- Converts scanned newspaper text to speech using **GTTS**.
+
+---
+
+## 📊 GitHub Stats & Activity
+
+[![Anadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anadi0302&show_icons=true&theme=radical)](https://github.com/Anadi0302)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anadi0302&theme=radical)](https://github.com/Anadi0302)
+
+---
+
+## 🌱 Current Learning
+
+- **React Native** - Mobile app development.
+- **Machine Learning** - Implementing algorithms and exploring AI.
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn**: [Anadi's LinkedIn]([https://www.linkedin.com/in/anadi/](https://www.linkedin.com/in/anadi-singh-272843266/))
+- **Email**: [anadi@example.com](anadirajput.pat@gmail.com)
+
+---
+
+## 💡 Fun Facts
+
+- 🎶 Music lead of my college cultural club!
+- 💬 Fluent in **English**, **Hindi**, and **spanish**.
+
+---
+
+## 👨‍💻 Let's Collaborate!
+
+Feel free to reach out for collaboration, open-source contributions, or just to chat about tech! 😄  
