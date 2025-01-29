@@ -63,12 +63,6 @@ An accessibility tool to have a detailed analysis of the Sales for the past 4 ye
 
 ---
 
-## 📫 Connect with Me
-
-- **LinkedIn**: [Anadi's LinkedIn]([https://www.linkedin.com/in/anadi/](https://www.linkedin.com/in/anadi-singh-272843266/))
-- **Email**: [anadi@example.com](anadirajput.pat@gmail.com)
-
----
 
 ## 💡 Fun Facts
 
