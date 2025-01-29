@@ -35,13 +35,17 @@
 A dynamic To-Do List app built with **React** to manage tasks.  
 - Add tasks, mark them as complete, and delete them.
 - Uses **local storage** to persist tasks.
+  
 
 ### 2. **[Newspaper Reader for the Blind](https://github.com/Anadi0302/Newspaper-Reader)**
 An accessibility tool to read newspapers for the blind, using **YOLOv8** and **Pytesseract** for text recognition.  
 - Converts scanned newspaper text to speech using **GTTS**.
   
+  
 ### 3. **[Sales Analysis](https://github.com/Anadi0302/Sales-Analysis)**
 An accessibility tool to have a detailed analysis of the Sales for the past 4 years.
+
+
 ### 4. **[Image gallery](https://github.com/Anadi0302/image-gallery)**
 - It is a gallery which shows images of different dogs or any api that you have used in the code.
 - The major skills used this was React Native ,Javascript,html and css.
