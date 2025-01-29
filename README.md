@@ -1,9 +1,11 @@
-# 👋 Hello, I'm Anadi!
+# <img src="https://raw.githubusercontent.com/Anadi0302/Anadi0302/master/spinning.gif" alt="Spinning GitHub Logo" width="100" />
+👋 Hello, I'm Anadi!
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anadi-singh-272843266/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rajputanadi)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hello+World!+👨‍💻;I'm+a+Software+Engineer+in+the+making+🖥️;+Coding+my+way+through+life+💻;I+love+React,+JavaScript,+and+building+cool+stuff!+🤓;Let's+talk+tech+&+AI+!+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;Welcome+to+my+GitHub!;I+am+a+Software+Engineer+in+making.;I+love+React+%26+JavaScript!)](https://git.io/typing-svg)
+
 
 
 
